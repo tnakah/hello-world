@@ -1,2 +1,2 @@
 # hello-world
-A repository for my ideas
+A repository for tnakah's ideas
